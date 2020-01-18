@@ -1,0 +1,41 @@
+Bread Finance ("Budget Your Bread")
+
+Description: Bread Themed Budget tracking application (budget your bread). Allows user to enter new transactions and see progress/expense distribution based on a login account
+---------------------------------------------------------------------------------------------------------------------------
+Notes | 
+
+FrontEnd
+	Loading page:
+	Rotating image of a dinner roll (lets get rolling)
+
+	Progress Bar : 
+
+	Top of the page, loaf of bread, 6 images, correleates to how much money is left in your budget for the month.
+
+	index  pag shows logo at the top, progress bar, then form for entering new transactions
+
+
+	Fly out nav top left:
+		- entering transacation
+		- ability to view transaction history using visiual aids (graphs/plots)
+		- Account settings, update your budget values/catagories?
+
+Features:
+
+	Login/ Passport verification
+
+	Widget: phone widget (android) for entering transaction 
+		/or/ 
+	Text transaction too app
+
+
+Database/Table Structure:
+	Something for tracking catagories
+	Something for tracking transaction values/descriptions/dates
+
+
+
+
+
+
+
