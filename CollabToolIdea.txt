@@ -1,0 +1,42 @@
+Further Together
+
+Description: A tool/app for enterprise level organizations that will enable ease of collaboration, brainstorming, networking, mentoring internally amongst different development teams
+
+Problem to Solve: Large organizations often have many separate teams/individuals that work in silos and may not be able to easily get help when needed.  
+It would be ideal to have a place to go to be able to ask for help, collaboration, mentor, meetup etc. There is much unused/unshared talent.
+---------------------------------------------------------------------------------------------------------------------------
+Notes | 
+
+Frontend:
+
+    Login/User register
+
+    Help wanted page:  
+        This can be similar to a Stack Exchange for problems, asking for help/advice/input/collaboration.  Tags would be used for different categories to be able to filter if desired.
+    
+    Meetup/Outside opportunities
+        Setup similar to a discussion feed, a place to talk about goings ons in the industry- can have a discussion board to ask questions or comment on. This would be a place to ask
+        if anyone has interest in extracurricular development projects etc.
+
+    Mentor outreach
+        This may be too similar to the above to warrant a separate page.  
+    
+    Cheatsheet collection?
+    
+    Internal announcements
+        ?
+
+Backend:
+    Tables needed:
+        Login/User Tables
+        Topics/Tags
+        Discussions (no clue logistics of this. . .)
+        Cheatsheets (with a tag IDs FK)
+
+
+SideNote- Stack Overflow for business enterprises is $12/month per teammate.  My company has 600 developers.  That is over $86K a year.  
+    
+Ideas to steal/borrow
+    https://dev.to/
+
+
